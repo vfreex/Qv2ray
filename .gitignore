@@ -6,6 +6,7 @@
 *.qm
 ./.vscode
 CMakeSettings.json
+/qv2ray.spec
 
 SourceTrail/
 
